@@ -3,12 +3,6 @@ The following README contains build instructions, completed features, and things
 
 NOTE: The current config files are provided in the mid checkpoint since our SSH code is not fully tested. These will not be provided in the final version.
 
-## Group Information
-**Members:** 
-1) Stephen Felman (felman.stephen@ufl.edu), UF-ID: 3509-6169
-2) Kenneth King, (ke.king@ufl.edu), UF-ID: 0901-3401
-3) Anshika Saxena, (anshikasaxena@ufl.edu), UF-ID: 9530-5566
-
 ## How to Run
 Navigate to the "BitTorrent" project and execute the following commands in the terminal.
 
